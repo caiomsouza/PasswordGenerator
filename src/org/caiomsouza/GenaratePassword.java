@@ -17,7 +17,7 @@
 
 
 
-package org.ai4biz;
+package org.caiomsouza;
 
 import java.util.Random;
 

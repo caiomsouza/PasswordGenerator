@@ -15,7 +15,7 @@
  * Copyright (c) 2016-2016 AI4biz Corporation..  All rights reserved.
  */
 
-package org.ai4biz;
+package org.caiomsouza;
 
 import java.security.SecureRandom;
 import java.util.ArrayList;

@@ -16,10 +16,11 @@
  */
 
 
-package org.ai4biz;
+package org.caiomsouza;
 
-import org.ai4biz.GenaratePassword;
-import org.ai4biz.PassGen;
+import org.caiomsouza.GenaratePassword;
+import org.caiomsouza.PassGen;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
